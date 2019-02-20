@@ -32,6 +32,7 @@ body {
     padding-right: 15px;
     font-size: 112px;
     padding-top: 10px;
+    transform: rotate(180deg) translateX(-75%);
 }
 
 .redirect {
