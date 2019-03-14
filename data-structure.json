@@ -1,0 +1,4 @@
+{
+    "suit": String,
+    "number": String
+}
